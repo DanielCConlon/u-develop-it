@@ -15,3 +15,19 @@
 - Execute SQL queries in the Express.js routes using MySQL methods.
 
 - Test the API endpoint using Insomnia and the browser.
+
+# 12.3
+
+- Made changes to a schema by using ALTER and DROP statements.
+
+- Combined relational data using JOIN statements.
+
+- Added foreign key constraints to remove references to deleted data.
+
+# 12.4
+
+- Modularize API routes.
+
+- Add timestamps to newly created data.
+
+- Sort data as it is retrieved from the database.
